@@ -2,19 +2,16 @@
 <h1 align="center">Hi 👋, I'm BEGAN BABU P</h1>
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vrsathish15&label=Profile%20views&color=0e75b6&style=flat" alt="vrsathish15" /> </p>
-
-- 🔭 I’m currently working on [WEB TECHNOLOGY](https://github.com/vrsathish15/TechnoHacks)
+- 🔭 I’m currently working on [WEB TECHNOLOGY](https://github.com/beganba)
 
 - 🌱 I’m currently learning **frameworks, Advance Java**
 
-- 👯 I’m looking to collaborate on [Naan Mudhalvan](https://github.com/vrsathish15/TechnoHacks)
+- 👯 I’m looking to collaborate on [Naan Mudhalvan](https://github.com/beganba/TechnoHacks)
 
-- 👨‍💻 All of my projects are available at [https://github.com/vrsathish15](https://github.com/vrsathish15)
+- 👨‍💻 All of my projects are available at [https://github.com/beganba](https://github.com/vrsathish15)
 
-- 📫 How to reach me **vrsathish15@gmail.com**
+- 📫 How to reach me **began2230@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZEogx7Jd761LNm6HZYO9cW0WDncltaqw/view?usp=drive_link](https://drive.google.com/file/d/1ZEogx7Jd761LNm6HZYO9cW0WDncltaqw/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I Am Funny**
 
